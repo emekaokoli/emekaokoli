@@ -3,7 +3,7 @@
 <h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
 
 <p align='center'>
- I am a Fullstack React engineer <b>CESAR</b> 
+ I am a Fullstack React engineer <b>EEDC</b> 
 </p>
 
 <p align='center'>
