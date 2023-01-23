@@ -3,9 +3,11 @@
 <h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
 
 <p align='center'>
-Im a fullstack React/Nodejs software engineer (PERN, MERN), I have a hands-on development experience in building and implementing creative software solutions.
+Experienced fullstack React/Nodejs software engineer (PERN, MERN).
 </p>
-
+<p align='center'>
+I have a hands-on development experience in building and implementing creative software solutions.
+</p>
 <p align='center'>
  I am available for remote work.
 </p>
@@ -26,7 +28,7 @@ Im a fullstack React/Nodejs software engineer (PERN, MERN), I have a hands-on de
 
 <hr>
 
-<h4>🔭 Currently working as <h5>Software engineer</h5></h4>
+<h4>🔭 Currently working as a Software engineer (GIS automation)</h4>
 
 
 <hr>
