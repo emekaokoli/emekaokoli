@@ -3,11 +3,11 @@
 <h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
 
 <p align='center'>
- React/Nodejs software engineer (PERN, MERN)
+Im a fullstack React/Nodejs software engineer (PERN, MERN), I have a hands-on development experience in building and implementing creative software solutions.
 </p>
 
 <p align='center'>
- I am available for remote work
+ I am available for remote work.
 </p>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=emekaokoli??style=for-the-badge&logo=appveyor"></a>
