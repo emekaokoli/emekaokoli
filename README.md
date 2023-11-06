@@ -3,7 +3,7 @@
 <h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
 
 <p align='center'>
-Experienced fullstack React/Nodejs software engineer (PERN, MERN).
+Experienced full-stack React/Nodejs software engineer (PERN, MERN).
 </p>
 <p align='center'>
 I have a hands-on development experience in building and implementing creative software solutions.
@@ -24,14 +24,6 @@ I have a hands-on development experience in building and implementing creative s
   <a href="mailto:emekaokoli00@gmail.com?subject=Hello%20Emeka"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-
-<hr>
-
-<h4>🔭 Currently working as a Software engineer (GIS automation)</h4>
-
-
-<hr>
 
 <h4>🌱 Technology stack</h4>
 
@@ -66,14 +58,12 @@ I have a hands-on development experience in building and implementing creative s
 </p>
 -->
 
-
 <!-- <p align='right'>
 <h4>💬  Sometimes I like to write things here...</h4>
   <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://stefanysa.tech/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p> -->
-
 
 <!-- <hr>
 
@@ -83,6 +73,3 @@ I have a hands-on development experience in building and implementing creative s
   <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p> -->
-
-
-
