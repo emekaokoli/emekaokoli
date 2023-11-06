@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
 
 <p align='center'>
-An experienced full-stack developer from Nigeria.
+Experienced Full-stack Developer from Nigeria.
 </p>
 <p align='center'>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
