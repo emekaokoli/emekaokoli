@@ -1,34 +1,79 @@
-
-
 <h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
 
 <p align='center'>
-Experienced full-stack React/Nextjs/Nodejs software engineer (PERN, MERN).
+An experienced full-stack developer from Nigeria.
 </p>
 <p align='center'>
-I have successfully developed and maintained production-ready services using JavaScript and TypeScript, including libraries/frameworks such as React, Next.js, and Node.js.
-</p>
-<p align='center'>
- I am available for remote work.
-</p>
-<p align='center'>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=emekaokoli" alt="visitor badge"/>
-<!--   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=emekaokoli??style=for-the-badge&logo=appveyor"></a> -->
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>Contacts and Socials</p>
+
 <p align='center'>
-<!--   <a href="https://x.com/emyokoli"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://x.com/emyokoli"><img src="https://img.shields.io/twitter/follow/emyokoli?style=social" alt='follow me on x'/></a>&nbsp;&nbsp;
-<!--  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/emyokoli?style=social"> -->
-<!--   <img alt="GitHub followers" src="https://img.shields.io/github/followers/emekaokoli?style=social"> --> 
   <a href="https://www.linkedin.com/in/emekaokoli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:emekaokoli00@gmail.com?subject=Hello%20Emeka"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4>Skills</h4>
-<hr />
-<!-- https://img.shields.io/badge/TailWind-css -->
-<h4>Language</h4>
+<p align='center'>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=emekaokoli" alt="visitor badge"/>
+</p>
+
+<details>
+  <summary>📃 Resume</summary>
+ 
+ ## Education
+
+- 📖 **Geography**\
+📆 2006 - 2010\
+📍 **University of Lagos** - Lagos, Nigeria
+
+- 📖 **Web development**\
+📆 2009 - 2010\
+📍 **NIIT institute** - Lagos, Nigeria.
+
+- 📖 **Fullstack React/React Native/Nodejs Developer**\
+📆 2020 - 2020\
+📍 **Coursera** - coursera.org
+
+- 📖 **React Nano degree**\
+📆 2021 - 2021\
+📍 **Udacity** - udacity.com
+
+## Experience
+ <img align="right" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+ <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img align="right" src="https://camo.githubusercontent.com/33232648b9d373b6983c613a5cf1575e941f44b60130a9ea74ea04102936b187/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6170626f7826636f6c6f723d303030303030266c6f676f3d4d6170626f78266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+
+
+- 👨‍💻 **Full-stack Developer**\
+📆 2018 - current\
+📍 **Enugu electricity distribution compnay** - Enugu, Nigeria.
+
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="right" src="https://camo.githubusercontent.com/eb3676422a9e186ce18237e6c1ffee703068f7850c2a513b9a261f33ee335ed6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6f6e676f444226636f6c6f723d343741323438266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+ <img align="right" src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
+- 👨‍💻 **Web Developer**\
+📆 2017 - 2018\
+📍 **Leviticus labs** - Lagos, Nigeria.
+
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+
+- 👨‍💻 **Frontend Developer**\
+📆 2014 - oct/2017\
+📍 **Interplay Digitech** - Lagos, Nigeria.
+
+## Skills
+
+### Language
 <p align='left'>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -38,12 +83,10 @@ I have successfully developed and maintained production-ready services using Jav
  <hr/>
 <h4>Libraries/Framework</h4>
 <p align='left'>
- <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
-
 <img src="https://camo.githubusercontent.com/f93c191872254e83a3c6664393dbbabbcca0de44a14f117d962a5718d4651379/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4578706f26636f6c6f723d303030303230266c6f676f3d4578706f266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 <img src="https://camo.githubusercontent.com/0a95585d6b3a07028298a45d60b85a1331358bc336549d64dbbc27977f1495f3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4578707265737326636f6c6f723d303030303030266c6f676f3d45787072657373266c6f676f436f6c6f723d464646464646266c6162656c3d " />
 </p>
@@ -79,29 +122,15 @@ I have successfully developed and maintained production-ready services using Jav
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
 </p>
-<hr />
-<h4>Stats</h4>
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emekaokoli"/>
- <img src="https://github-readme-stats.vercel.app/api?username=emekaokoli"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emekaokoli" />
 
+</details>
+
+## Why hire me?
+<p align="center">
+ 
+- I have extensive experience in leading teams. 
+- I have a proven track record of developing and maintaining production-ready services using JavaScript and TypeScript. This includes working with popular - frameworks such as React, React Native, Next.js, and Node.js. 
+- With over two years of startup experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations. 
+- I have worked on several real-world applications that serve a large number of users, which has allowed me to develop expertise in handling performance and scalability issues.
 </p>
 
-
-
-<!-- <p align='right'>
-<h4>💬  Sometimes I like to write things here...</h4>
-  <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stefanysa.tech/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
-</p> -->
-
-<!-- <hr>
-
-<br>
-<p align="right">
-  <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
-</p> -->
