@@ -121,12 +121,12 @@
 </details>
 -->
  I love building products and services people love using, and contributing to bold, innovative ideas. 
-<p align="left">
+
  - I have extensive experience in leading teams. 
- - Track record of developing and maintaining production-ready services using JavaScript and TypeScript. This includes working with technologies and frameworks such as React, React Native, Next.js, React Router, Tanstack Start and Node.js/Express. 
+ - Track record of developing and maintaining production-ready apps with JavaScript, TypeScript, React, React Native, Next.js, React Router, Tanstack Start, Node.js, Express.js, Knex, Mongodb and Postgresql. 
  - With over 3 years of startup work experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations. 
  - I've built and scaled real-world applications serving large user bases, gaining deep experience in performance optimization and scalability challenges.
-</p>
+
 <p align='left'>
   <a href="https://x.com/emyokoli"><img src="https://img.shields.io/twitter/follow/emyokoli?style=social" alt='follow me on x'/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/emekaokoli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
