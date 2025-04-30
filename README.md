@@ -1,24 +1,20 @@
-<h1 align='center'> Hi there 👋, I'm Emeka  👨🏽‍💻 </h1>
+<h1 align='left'> Hi there 👋</h1>
 
-<p align='center'>
-Experienced Full-stack Developer from Nigeria.
+<p align='left'>
+## I'm Emeka 👨🏽‍💻 Experienced Full-stack Developer from Nigeria.
 </p>
-<p align='center'>
+<!--<p align='center'>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-<p align='center'>Contacts and Socials</p>
+<p align='center'>Contacts and Socials</p>-->
 
-<p align='center'>
-  <a href="https://x.com/emyokoli"><img src="https://img.shields.io/twitter/follow/emyokoli?style=social" alt='follow me on x'/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/emekaokoli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:emekaokoli00@gmail.com?subject=Hello%20Emeka"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
 
-<p align='center'>
+
+<!--<p align='center'>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=emekaokoli" alt="visitor badge"/>
 </p>
 
-<details>
+<!--<details>
   <summary>📃 Resume</summary>
  
  ## Education
@@ -124,13 +120,17 @@ Experienced Full-stack Developer from Nigeria.
 </p>
 
 </details>
-
-## Why hire me?
-<p align="center">
- 
-- I have extensive experience in leading teams. 
-- I have a proven track record of developing and maintaining production-ready services using JavaScript and TypeScript. This includes working with popular - frameworks such as React, React Native, Next.js, and Node.js. 
-- With over two years of startup experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations. 
-- I have worked on several real-world applications that serve a large number of users, which has allowed me to develop expertise in handling performance and scalability issues.
+-->
+ I love building products and services people love using, and contributing to bold, innovative ideas. 
+<p align="left">
+ - I have extensive experience in leading teams. 
+ - Track record of developing and maintaining production-ready services using JavaScript and TypeScript. This includes working with technologies and frameworks such as React, React Native, Next.js, React Router, Tanstack Start and Node.js/Express. 
+ - With over 3 years of startup work experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations. 
+ - I've built and scaled real-world applications serving large user bases, gaining deep experience in performance optimization and scalability challenges.
+</p>
+<p align='left'>
+  <a href="https://x.com/emyokoli"><img src="https://img.shields.io/twitter/follow/emyokoli?style=social" alt='follow me on x'/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/emekaokoli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:emekaokoli00@gmail.com?subject=Hello%20Emeka"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
