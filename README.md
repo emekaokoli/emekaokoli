@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<h2 align='center'>I'm Emeka 👨🏽‍💻 Experienced Full-stack Developer from Nigeria.</h2>
+## I'm Emeka 👨🏽‍💻 Experienced Full-stack Developer from Nigeria.
+
 <!--<p align='center'>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
