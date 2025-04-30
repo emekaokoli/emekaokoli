@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align='left'><strong>I'm Emeka 👨🏽‍💻, an experienced software engineer from Nigeria.</strong></p>
+<p align='left'><strong>I'm Emeka 👨🏽‍💻, an experienced software developer from Nigeria.</strong></p>
 
 <!--<p align='center'>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
