@@ -1,8 +1,8 @@
-<h1 align='left'> Hi there 👋</h1>
+## Hi there 👋
 
-<p align='left'>
-## I'm Emeka 👨🏽‍💻 Experienced Full-stack Developer from Nigeria.
-</p>
+
+### I'm Emeka 👨🏽‍💻 Experienced Full-stack Developer from Nigeria.
+
 <!--<p align='center'>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
@@ -121,16 +121,17 @@
 
 </details>
 -->
- I love building products and services people love using, and contributing to bold, innovative ideas. 
-<p align="left">
- - I have extensive experience in leading teams. 
- - Track record of developing and maintaining production-ready services using JavaScript and TypeScript. This includes working with technologies and frameworks such as React, React Native, Next.js, React Router, Tanstack Start and Node.js/Express. 
- - With over 3 years of startup work experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations. 
- - I've built and scaled real-world applications serving large user bases, gaining deep experience in performance optimization and scalability challenges.
-</p>
+I love building products and services people love using, and contributing to bold, innovative ideas.
+
+- I have extensive experience in leading teams.  
+- Track record of developing and maintaining production-ready services. This includes working with libraries and frameworks such as JavaScript, TypeScript, React, React Native (Expo), Next.js, React Router, Tanstack Start, and Node.js/Express.  
+- With over 3 years of startup work experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations.  
+- I've built and scaled real-world applications serving large user bases, gaining deep experience in performance optimization and scalability challenges.
+
 <p align='left'>
   <a href="https://x.com/emyokoli"><img src="https://img.shields.io/twitter/follow/emyokoli?style=social" alt='follow me on x'/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/emekaokoli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:emekaokoli00@gmail.com?subject=Hello%20Emeka"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
 
