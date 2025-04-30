@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-
 ### I'm Emeka 👨🏽‍💻 Experienced Full-stack Developer from Nigeria.
 
 <!--<p align='center'>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emekaokoli&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>Contacts and Socials</p>-->
-
-
 
 <!--<p align='center'>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=emekaokoli" alt="visitor badge"/>
@@ -125,7 +122,7 @@ I love building products and services people love using, and contributing to bol
 
 - I have extensive experience in leading teams.  
 - Track record of developing and maintaining production-ready services. This includes working with libraries and frameworks such as JavaScript, TypeScript, React, React Native (Expo), Next.js, React Router, Tanstack Start, and Node.js/Express.  
-- With over 3 years of startup work experience, I am familiar with the challenges of wearing multiple hats and adapting to changing requirements and market situations.  
+- With over 3 years of startup work experience, I am familiar with the challenges of wearing multiple hats and adapting to changing product requirements and situations.  
 - I've built and scaled real-world applications serving large user bases, gaining deep experience in performance optimization and scalability challenges.
 
 <p align='left'>
