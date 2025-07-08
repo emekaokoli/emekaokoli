@@ -1,5 +1,39 @@
 # 💫 About Me:
-Hi, I'm Emeka 👋<br>Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale with your users<br><br>🚀 Engineering Leadership<br>Led teams to ship production systems handling:<br>▸ 100k+ MAU (Monthly active users) with <300ms Time to Interactive (TTI)<br>▸ 10x traffic spikes during product launches<br>▸ Zero-downtime migrations<br><br>⚡ Performance Toolkit<br>Frontend<br>• Near-initial loads: Hybrid SSG/ISR with Next.js<br>• 60% smaller bundles: Vite + code splitting<br>• Fluid animation: Framer Motion<br><br>Backend<br>• <100ms APIs: Redis caching + connection pooling<br><br>🛠️ Technical Arsenal<br>```typescript<br>const toolbox = {<br>  core: ['TypeScript', 'JavaScript', 'React', 'Node.js'],<br>  frameworks: ['Next.js', 'Express', 'Nest.js'],<br>  data: {<br>    sql: 'PostgreSQL',<br>    noSQL: 'MongoDB',<br>    ORM: ['Knex', 'Mongoose', 'Prisma']<br>  },<br>  infra: ['AWS', 'Docker', 'CI/CD']<br>}<br>```<br><br>🌱 Current Exploration<br>• Go for high-concurrency services<br><br>Let's architect something extraordinary → https://x.com/emyokoli
+Hi, I'm Emeka 👋
+Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale with your users
+
+🚀 Engineering Leadership
+Led teams to ship production systems handling:
+▸ 100k+ MAU (Monthly active users) with <300ms Time to Interactive (TTI)
+▸ 10x traffic spikes during product launches
+▸ Zero-downtime migrations
+
+⚡ Performance Toolkit
+Frontend
+• Near-initial loads: Hybrid SSG/ISR with Next.js
+• 60% smaller bundles: Vite + code splitting
+• Fluid animation: Framer Motion
+
+Backend
+• <100ms APIs: Redis caching + connection pooling
+
+🛠️ Technical Arsenal
+```typescript
+const toolbox = {
+  core: ['TypeScript', 'JavaScript', 'React', 'Node.js'],
+  frameworks: ['Next.js', 'Express', 'Nest.js'],
+  data: {
+    sql: 'PostgreSQL',
+    noSQL: 'MongoDB',
+    ORM: ['Knex', 'Mongoose', 'Prisma']
+  },
+  infra: ['AWS', 'Docker', 'CI/CD']
+}
+```
+🌱 Current Exploration
+• Go for high-concurrency services
+
+Let's architect something extraordinary → https://x.com/emyokoli
 
 
 ## 🌐 Socials:
