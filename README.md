@@ -1,10 +1,10 @@
 # 💫 About Me:
 **Hi, I'm Emeka 👋**  
-*Full-Stack Engineer | Performance Specialist | Scalable Systems Architect*
+*Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale
 
 ## 🚀 Highlights
 `Scalability` `Performance` `Leadership`
-- Led teams building systems for **100k+ MAU** (<300ms TTI)
+- 100k+ MAU (Monthly active users) with <300ms Time to Interactive (TTI)
 - Engineered solutions for **10x traffic spikes**
 - **Zero-downtime** CI/CD pipelines
 
@@ -17,11 +17,16 @@
 | Framer Motion    | <100ms APIs       | Aggregation Pipelines | Zero-Downtime Deploys |
 
 ```typescript
-// Current Focus
-const learning = {
-  languages: ['Go', 'WebAssembly'],
-  concepts: ['High-concurrency systems', 'Edge computing']
-};
+const toolbox = {
+  core: ['TypeScript', 'JavaScript', 'React', 'Node.js'],
+  frameworks: ['Next.js', 'Express', 'Nest.js'],
+  data: {
+    sql: 'PostgreSQL',
+    noSQL: 'MongoDB',
+    ORM: ['Knex', 'Mongoose', 'Prisma']
+  },
+  infra: ['AWS', 'Docker', 'CI/CD']
+}
 ```
 🌱 Current Exploration
 • Go for high-concurrency services
