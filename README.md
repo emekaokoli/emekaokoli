@@ -1,4 +1,4 @@
-# 🧐 About Me:
+# 🤔 About Me:
 **Hi, I'm Emeka 👋**  
 I'm an experienced Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale.
 
@@ -16,6 +16,26 @@ I'm an experienced Full-Stack Engineer from Nigeria, specializing in high-perfor
 | Vite             | Redis             | Prisma/Knex        | CI/CD           |
 | Framer Motion    | <100ms APIs       | Aggregation Pipelines | Zero-Downtime Deploys |
 
+<!--## 🏆 Featured Projects
+
+### 1. [FlashStore](https://github.com/your/flashstore) | Next.js · Redis · PostgreSQL
+⚡ **E-commerce platform with 40ms API responses**  
+- Reduced cart latency by 70% via Redis caching  
+- Achieved 95 Lighthouse score with Next.js ISR  
+- 10k+ active users during Black Friday surge  
+
+### 2. [DevDash](https://github.com/your/devdash) | React · Go · MongoDB  
+📊 **Real-time developer analytics dashboard**  
+- Processed 1M+ events/day with Go backend  
+- 60fps animations using Framer Motion  
+- Open-source (500+ GitHub stars)  
+
+### 3. [API Turbo](https://github.com/your/apiturbo) | Node.js · PostgreSQL  
+🚀 **High-performance API framework**  
+- Consistently <50ms response times at scale  
+- Used by 3 YC startups in production  
+- Featured on Node.js official blog
+  --->
 ```typescript
 const toolbox = {
   core: ['TypeScript', 'JavaScript', 'React', 'Node.js'],
