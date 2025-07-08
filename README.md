@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Hi, I'm Emeka 👋**  
-*Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale
+Experienced Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale.
 
 ## 🚀 Highlights
 `Scalability` `Performance` `Leadership`
