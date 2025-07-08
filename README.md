@@ -1,38 +1,28 @@
 # 💫 About Me:
-Hi, I'm Emeka 👋
-Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale with your users
+**Hi, I'm Emeka 👋**  
+*Full-Stack Engineer | Performance Specialist | Scalable Systems Architect*
 
-<p align='center'>
-🚀 Engineering Leadership
-Led teams to ship production systems handling:
-▸ 100k+ MAU (Monthly active users) with <300ms Time to Interactive (TTI)
-▸ 10x traffic spikes during product launches
-▸ Zero-downtime migrations
+## 🚀 Highlights
+`Scalability` `Performance` `Leadership`
+- Led teams building systems for **100k+ MAU** (<300ms TTI)
+- Engineered solutions for **10x traffic spikes**
+- **Zero-downtime** CI/CD pipelines
 
-⚡ Performance Toolkit
-Frontend
-• Near-initial loads: Hybrid SSG/ISR with Next.js
-• 60% smaller bundles: Vite + code splitting
-• Fluid animation: Framer Motion
+## ⚡ Tech Stack
+| Frontend          | Backend           | Data               | DevOps          |
+|-------------------|-------------------|--------------------|-----------------|
+| React/Next.js     | Node.js/Express   | PostgreSQL         | AWS             |
+| TypeScript        | Nest.js           | MongoDB            | Docker          |
+| Vite             | Redis             | Prisma/Knex        | CI/CD           |
+| Framer Motion    | <100ms APIs       | Aggregation Pipelines | Zero-Downtime Deploys |
 
-Backend
-• <100ms APIs: Redis caching + connection pooling
-• 100% uptime: CI/CD pipelines
-
-🛠️ Technical Arsenal
 ```typescript
-const toolbox = {
-  core: ['TypeScript', 'JavaScript', 'React', 'Node.js'],
-  frameworks: ['Next.js', 'Express', 'Nest.js'],
-  data: {
-    sql: 'PostgreSQL',
-    noSQL: 'MongoDB',
-    ORM: ['Knex', 'Mongoose', 'Prisma']
-  },
-  infra: ['AWS', 'Docker', 'CI/CD']
-}
+// Current Focus
+const learning = {
+  languages: ['Go', 'WebAssembly'],
+  concepts: ['High-concurrency systems', 'Edge computing']
+};
 ```
-
 🌱 Current Exploration
 • Go for high-concurrency services
 </p>
