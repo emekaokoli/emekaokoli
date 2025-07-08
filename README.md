@@ -2,6 +2,7 @@
 Hi, I'm Emeka 👋
 Full-Stack Engineer from Nigeria, specializing in high-performance web systems that scale with your users
 
+<p align='center'>
 🚀 Engineering Leadership
 Led teams to ship production systems handling:
 ▸ 100k+ MAU (Monthly active users) with <300ms Time to Interactive (TTI)
@@ -16,6 +17,7 @@ Frontend
 
 Backend
 • <100ms APIs: Redis caching + connection pooling
+• 100% uptime: CI/CD pipelines
 
 🛠️ Technical Arsenal
 ```typescript
@@ -30,11 +32,11 @@ const toolbox = {
   infra: ['AWS', 'Docker', 'CI/CD']
 }
 ```
+
 🌱 Current Exploration
 • Go for high-concurrency services
-
+</p>
 Let's architect something extraordinary → https://x.com/emyokoli
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/emekaokoli.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ookli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emekaokoli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emyokoli) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev_xperience) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emekaokoli00@gmail.com) 
