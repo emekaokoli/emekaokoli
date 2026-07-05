@@ -1,7 +1,7 @@
 # 🤔 About Me:
 **Hi, I'm Emeka 👋**
 
-AI Product Engineer and Full-Stack Engineer from Nigeria. Stack: React, TypeScript, Next.js, React Native, Node.js, TanStack ecosystem. I build LLM-powered apps, AI agents, and workflow automation tools — from prototype to production.
+AI Product Engineer and Full-Stack Engineer from Nigeria. Stack: React, TypeScript, Next.js, React Native, Node.js, TanStack ecosystem. I build LLM-powered apps, AI agents, and workflow automation tools, from prototype to production.
 
 ## 🏢 Domains
 `HealthTech` `HR SaaS` `Utility/Energy`
