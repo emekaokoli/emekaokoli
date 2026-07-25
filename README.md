@@ -1,7 +1,11 @@
-# 🤔 About Me:
-**Hi, I'm Emeka 👋**
+### Hi, I'm Emeka
 
-An AI Product Engineer and Full-Stack Engineer from Nigeria. Stack: React, TypeScript, Next.js, React Native, Node.js, TanStack ecosystem. I build LLM-powered apps, AI agents, and workflow automation tools, from prototype to production.
+Full-stack engineer focused on product engineering—building enterprise-grade utility products at EEDC across multiple regional subsidiaries, and integrating LLMs into both product features and engineering workflows.
+
+### Core stack
+React, `TypeScript`, `Next.js`, `Node.js`, `PostgreSQL`, `MongoDB`, `TanStack (Router/Query/Table/AI/Start)`, `Vercel AI SDK`, `(Drizzle, Knexjs, Prisma, Mongoose)`.
+
+Built a multi-tenant meter dispatch system spanning EEDC HoldCo and five SubCo regions. Engineered AI-powered clinical documentation for telehealth visits, combining AWS Chime SDK for video, AWS Transcribe, and LLMs for structured clinical notes. Integrated GPT-4o capabilities into core products using TanStack AI and Vercel AI SDK. Deep background in HR SaaS product engineering.
 
 ## 🏢 Domains
 `HealthTech` `HR SaaS` `Utility/Energy`
@@ -17,7 +21,7 @@ An AI Product Engineer and Full-Stack Engineer from Nigeria. Stack: React, TypeS
 | React / Next.js    | Node.js / Express  | PostgreSQL               | AWS              |
 | TypeScript          | Nest.js             | MongoDB                  | Docker           |
 | Vite                | Redis                | Prisma / Knex / Drizzle | CI/CD            |
-| TanStack Query/Router/Table | Better Auth | — | — |
+| TanStack Query/Router/Table,Start | Better Auth | — | — |
 
 Routing: React Router (early projects) → TanStack Router (current).
 
