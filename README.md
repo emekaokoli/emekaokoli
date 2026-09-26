@@ -1,9 +1,9 @@
 ### Hi, I'm Emeka
 
-Full-stack engineer focused on product engineering—building enterprise-grade utility products at EEDC across multiple regional subsidiaries, and integrating LLMs into both product features and engineering workflows.
+Product engineer — building enterprise-grade utility and customer-facing products at EEDC across multiple regional subsidiaries, and integrating LLMs into both product features and engineering workflows.
 
 ### Core stack
-React, `TypeScript`, `Next.js`, `Node.js`, `PostgreSQL`, `MongoDB`, `TanStack (Router/Query/Table/AI/Start)`, `Vercel AI SDK`, `(Drizzle, Knexjs, Prisma, Mongoose)`.
+React, `TypeScript`, `Next.js`, `Node.js`, `PostgreSQL`, `MongoDB`, `TanStack (Router/Query/Table/AI/Start)`, `Vercel AI SDK`, `(Drizzle, Knex.js, Prisma, Mongoose)`.
 
 Built a multi-tenant meter dispatch system spanning EEDC HoldCo and five SubCo regions. Engineered AI-powered clinical documentation for telehealth visits, combining AWS Chime SDK for video, AWS Transcribe, and LLMs for structured clinical notes. Integrated GPT-4o capabilities into core products using TanStack AI and Vercel AI SDK. Deep background in HR SaaS product engineering.
 
